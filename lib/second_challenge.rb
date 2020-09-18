@@ -4,7 +4,7 @@ def second_challenge
       :patriarch => {},
       :matriarch => {},
       :hero => {},
-      :heros_friend => [{}]  #your key/value pairs here!
+      :heros_friend => []  #your key/value pairs here!
       },
     :capulet => {
       #your key/value pairs here!
